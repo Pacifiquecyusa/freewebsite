@@ -1,0 +1,10 @@
+1: https://www.hevahealth.com/
+2: https://www.hevahealth.com/treatment/semaglutide
+3: https://www.hevahealth.com/treatment/tirzepatide
+4: https://www.hevahealth.com/treatment/bloom
+5: https://www.hevahealth.com/treatment/rise
+6: https://www.hevahealth.com/treatment/fortify
+7: https://www.hevahealth.com/treatment/mens-health
+8: https://www.hevahealth.com/treatment/womens-health
+9: https://www.hevahealth.com/treatment/heva-lab-testing
+10: https://www.hevahealth.com/treatment-category/weight-loss
